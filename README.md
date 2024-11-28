@@ -2,6 +2,7 @@
 Our project is a Desktop based OCR software that takes an Urdu text image as input (particularly in the Naskh font),
 performs extraction techniques on it and later generates recognized editable text. Urdu OCR deals with multiple input image formats namely: JPEG, JPG, PNG and BMP. 
 Urdu OCR has long term benefits for the visually impaired individuals as we can use text-to-speech synthesizers to convert the OCR generated text to audio at real time.
+This project was developed collaboratively by me and my two teammates.
 
 **System Requirements** <br>
 Urdu OCR makes use of the Tesseract OCR software for extraction of the hard printed text. We chose Python as our programming language, Ubuntu 18.04 as our Operating System, PyCharm as the python platform and three important python libraries for image processing and analysis, namely: Python Imaging Library, PyQt5 and OpenCV. 
